@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xtP4ma65RLIs3pELPjaPD4z3svTVzof781DC9jbzp8Izs4J6wguE2ezSM0oUDSnXrupj67r60IJMjDV9z/lmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gleiton\\Projects\\ImageResizer\\ImageResizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gleiton\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gleiton\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

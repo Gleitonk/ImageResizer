@@ -1,0 +1,9 @@
+C:\Users\Gleiton\Projects\ImageResizer\bin\Debug\net7.0\publish\ImageResizer.exe
+C:\Users\Gleiton\Projects\ImageResizer\bin\Debug\net7.0\publish\ImageResizer.dll
+C:\Users\Gleiton\Projects\ImageResizer\bin\Debug\net7.0\publish\ImageResizer.deps.json
+C:\Users\Gleiton\Projects\ImageResizer\bin\Debug\net7.0\publish\ImageResizer.runtimeconfig.json
+C:\Users\Gleiton\Projects\ImageResizer\bin\Debug\net7.0\publish\ImageResizer.pdb
+C:\Users\Gleiton\Projects\ImageResizer\bin\Debug\net7.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gleiton\Projects\ImageResizer\bin\Debug\net7.0\publish\System.Drawing.Common.dll
+C:\Users\Gleiton\Projects\ImageResizer\bin\Debug\net7.0\publish\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gleiton\Projects\ImageResizer\bin\Debug\net7.0\publish\runtimes\win\lib\net7.0\System.Drawing.Common.dll
